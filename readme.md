@@ -1,3 +1,3 @@
 # [carniceriassanchez.github.io](https://carniceriassanchez.github.io/)
 
-### My resume template based on [Inovatik](https://inovatik.com/)
+### My resume template based on [Devcrud](https://wwww.devcrud.com/)
